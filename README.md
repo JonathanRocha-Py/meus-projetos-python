@@ -1,18 +1,22 @@
-# Olá, eu sou o Jonathan Rocha Castro 👋
+# Sistema de Gerenciamento de Estoque
 
-Desenvolvedor júnior apaixonado por programação.
+Projeto desenvolvido como trabalho final da faculdade em Análise e Desenvolvimento de Sistemas.
 
-## Sobre mim
-- 🎓 Recém-formado em Análise e Desenvolvimento de Sistemas
-- 🐍 Tecnologias que domino: Python, Java e MySQL
-- 📍 Moro em Nova Iguaçu, RJ
-- 🔭 Procurando minha primeira vaga como desenvolvedor
+## 🚀 Tecnologias utilizadas
+- Python 3
+- MySQL
+- Tkinter (interface gráfica)
 
-## Projetos em breve
-- Sistema de gerenciamento (TCC)
-- Aplicações com Python e banco de dados
-- Automatizações e scripts úteis
+## 📌 Funcionalidades
+- Cadastro de produtos
+- Controle de entrada e saída
+- Relatório de estoque baixo
 
-Fique à vontade para explorar meu perfil e dar feedback!
-Obrigado pela visita! 😄
-"Adiciona apresentação inicial" 
+## 🖼️ Prints do sistema
+![Tela principal](screenshots/tela1.png)
+
+## Como executar
+1. Clone o repositório
+2. Instale as dependências: `pip install -r requirements.txt`
+3. Configure o banco MySQL
+4. Execute: `python main.py`
